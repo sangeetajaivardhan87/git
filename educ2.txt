@@ -1,0 +1,2 @@
+'i am learning linux'
+commands- ls,pwd,cd
